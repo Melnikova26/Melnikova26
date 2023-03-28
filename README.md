@@ -5,7 +5,7 @@
 I'm Miliyasha👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="https://i.gifer.com/6M8G.gif" width="200"/>
+  <img src="https://giphy.com/clips/plant-caribbean-listenmi-LxV7znaZgqrZcIn837" width="200"/>
 </div>
 
 - 💻 I’m currently working on TypeScript, ReactJS, VueJS
@@ -16,8 +16,6 @@ I'm Miliyasha👩🏽‍💻
 ### Connect with me:
 - <a href="https://t.me/mmelnik5" target="blank">Telegram</a>
 - <a href="melnikova.miliausha@yandex.ru" target="blank">E-mail</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Technologies:

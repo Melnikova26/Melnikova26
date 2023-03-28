@@ -5,10 +5,10 @@
 I'm Miliyasha👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=05560632ptz8fuvax0g9f19sgmpor89innkcg6ch0ity8o47&rid=giphy.gif&ct=g" width="auto"/>
+  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=05560632ptz8fuvax0g9f19sgmpor89innkcg6ch0ity8o47&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
-- 💻 I’m currently working on HTML5, CSS3, JavaScript, ReactJSS
+- 💻 I’m currently working on HTML5, CSS3, JavaScript, ReactJSX
 - 🎓 I’m currently learning React and JS improvements
 - 💬 Ask me about hiking, painting and skiing
 

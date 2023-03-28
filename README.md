@@ -5,13 +5,12 @@
 I'm Miliyasha👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="https://giphy.com/clips/plant-caribbean-listenmi-LxV7znaZgqrZcIn837" width="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZlZTIyYzhmYTdkM2ExZjRmNjcwNjllOGRiMWY5YTRlMzZlMmQxMSZjdD12/LxV7znaZgqrZcIn837/giphy480p.mp4" width="200"/>
 </div>
 
-- 💻 I’m currently working on TypeScript, ReactJS, VueJS
-- 🎓 I’m currently learning TypeScript and JS improvements
-- 📖 I have a <a href="https://t.me/frontendzapiski" target="blank">channel</a> about frontend development
-- 💬 Ask me about tech, hiking, painting and snowbording
+- 💻 I’m currently working on HTML5, CSS3, JavaScript, ReactJSS
+- 🎓 I’m currently learning React and JS improvements
+- 💬 Ask me about hiking, painting and skiing
 
 ### Connect with me:
 - <a href="https://t.me/mmelnik5" target="blank">Telegram</a>

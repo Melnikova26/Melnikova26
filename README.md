@@ -5,7 +5,7 @@
 I'm Miliyasha👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="auto"/>
+  <img src="https://media3.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=05560632i94xm4i9sgvq74qoposvcmapy8kymlfvhqa15i30&rid=giphy.gif&ct=g" width="auto"/>
 </div>
 
 - 💻 I’m currently working on HTML5, CSS3, JavaScript, ReactJSS

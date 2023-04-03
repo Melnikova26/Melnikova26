@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Melnikova26's+Github+Profile..)](https://git.io/typing-svg)
 
-I'm Miliyasha👩🏽‍💻
+I'm Miliausha👩🏽‍💻
 
 <div id="header" align="start">
   <img src="https://media2.giphy.com/media/J3KCHKTEqkZuxAW6OQ/giphy.gif?cid=055606329ggaulbjmsll66t3mg3a6lcvbt8cec8922caxdqy&rid=giphy.gif&ct=g" width="200"/>

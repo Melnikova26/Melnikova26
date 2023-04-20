@@ -10,7 +10,6 @@ I'm Miliausha👩🏽‍💻
 
 - 💻 I’m currently working on HTML5, CSS3, JavaScript, ReactJSX
 - 🎓 I’m currently learning React and JS improvements
-- 💬 Ask me about hiking, painting and skiing
 
 ### Connect with me:
 - <a href="https://t.me/mmelnik5" target="blank">Telegram</a>
